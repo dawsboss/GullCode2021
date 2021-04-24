@@ -33,7 +33,6 @@ def solve(nodes, connections):
             if temp1.intersection(temp2) != set({}):
                 filter_list.remove(j)
                 break
-    print(filter_list)
     if len(filter_list) == 2:
         print('True')
     else:
@@ -56,8 +55,6 @@ def main():
 
         connections.append((lines[i][0], lines[i][1]))
 
-    print(nodes)
-    print(connections)
     solve(nodes, connections)
 
 if __name__ == '__main__':
