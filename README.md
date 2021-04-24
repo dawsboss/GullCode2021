@@ -1,2 +1,7 @@
 # GullCode2021
-This is code form a coding competition from Salisbury University 
+
+## Team: Ryan Rosiak and Grant Dawson
+
+This is code form a coding competition from Salisbury University
+
+ 
